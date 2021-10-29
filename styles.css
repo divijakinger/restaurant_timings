@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+.days{
+    height: 20vh;
+    padding: 20px;
+    background-color: rgb(188, 229, 229);
+    border-style: dashed;
+}
+
+.breakbutton,.deliverybutton{
+    border-radius: 120px;
+}
+
+.emptyRow{
+    height: 7vh;
+}
